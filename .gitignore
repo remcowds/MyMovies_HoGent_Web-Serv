@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+.env
+.env2
+.env.test
+debug.log
+coverage/
+
+dist
